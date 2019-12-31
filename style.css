@@ -1,0 +1,13 @@
+html, body {
+  margin: auto;
+  height: 100%;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  font-size: 2rem;
+  position: absolute;
+  align: center;
+  margin: auto;
+  color: white;
+}
