@@ -1,5 +1,6 @@
 html, body {
   margin: auto;
+  align: auto;
   height: 100%;
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
